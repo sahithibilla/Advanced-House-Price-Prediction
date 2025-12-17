@@ -1,4 +1,8 @@
 🏡 Advanced House Price Prediction App
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![ML](https://img.shields.io/badge/Machine%20Learning-Linear%20Regression-yellow)
+![License](https://img.shields.io/badge/License-MIT-green)
 An end‑to‑end machine learning project that predicts house prices using advanced area‑based features. This project includes data preprocessing, model training, model serialization using pickle, and a fully interactive Streamlit web application for real‑time predictions.
 
 📌 Project Overview
